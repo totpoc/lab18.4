@@ -11,7 +11,7 @@ public:
 	TRIAD();
 	TRIAD(int first, int second, int third);
 	TRIAD(const TRIAD& temp);
-	~TRIAD(){}
+	~TRIAD() {}
 
 	void setFirst(int first);
 	void setSecond(int second);

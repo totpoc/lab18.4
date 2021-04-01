@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="lab18.4.cpp" />
+    <ClCompile Include="clock.h" />
     <ClCompile Include="triad.cpp" />
   </ItemGroup>
   <ItemGroup>
